@@ -1,0 +1,1 @@
+deep learning model based on temporal CNN (Convolutional Neural Network) for ransomware detection based on storage access patterns. For more information regarding storage access patterns, refer to this (https://www.sciencedirect.com/science/article/pii/S2666281721002390)
